@@ -29,5 +29,4 @@ This project is an end-to-end research automation tool that extracts academic ar
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/research-assistant.git
-   cd research-assistant
+   git clone https://github.com/YuvrajPaiKhot/LLM-Driven-Academic-Research-Agent.git
